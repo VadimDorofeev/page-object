@@ -1,0 +1,4 @@
+browser=chrome
+url=http://localhost/litecart/admin
+username=admin
+password=admin
