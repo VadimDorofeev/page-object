@@ -1,5 +1,6 @@
-package Utils;
+package Tests;
 
+import Utils.TestBase;
 import org.testng.annotations.BeforeSuite;
 
 import java.io.IOException;
